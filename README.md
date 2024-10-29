@@ -1,8 +1,5 @@
-Here's a refined README for your *Cycles Sales and Profit Analysis Dashboard* project, structured with **Introduction**, **Problem Statement**, **Skills Demonstrated**, and **Data Transformation**, including the best elements from our previous versions:
 
----
-
-# Cycles Sales and Profit Analysis Dashboard
+# Banex Cycles Sales and Profit Analysis Dashboard
 
 ## Introduction
 This project is part of the requirement to complete my Advanced Power Bi certificate from Udemy,.It delivers an in-depth analysis of sales and profit for a Banex cycling product company. I designed a dynamic and insightful dashboard to explore key performance indicators (KPIs) such as revenue, cost, profit margin, and sales quantities across multiple product categories and regions. This dashboard showcases skills in DAX calculations, interactive visualizations, and data modeling, empowering stakeholders with actionable insights for strategic decision-making.
@@ -42,4 +39,4 @@ In Power Query, I performed multiple transformation steps to prepare the data fo
 - **Formatting and Data Types**: Standardized currency and number formats, ensuring that data types were appropriate for calculations and visualizations.
 
 ## Conclusion
-The *Cycles Sales and Profit Analysis Dashboard* showcases my skills in Power BI, including advanced DAX, effective data modeling, and transformative data preparation. This project not only highlights my analytical abilities but also demonstrates my ability to design actionable and dynamic visualizations, providing valuable insights for data-driven decision-making.
+The *Banex Cycles Sales and Profit Analysis Dashboard* showcases my skills in Power BI, including advanced DAX, effective data modeling, and transformative data preparation. This project not only highlights my analytical abilities but also demonstrates my ability to design actionable and dynamic visualizations, providing valuable insights for data-driven decision-making.
